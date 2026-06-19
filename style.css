@@ -636,7 +636,10 @@ max-width: 800px;
 margin : auto;
 }
 
-
+.real-div-content .museum_img img {
+  height : auto;
+  max-height: none;
+}
 
 .museum {
   display: flex;
