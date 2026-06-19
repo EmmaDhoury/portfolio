@@ -440,6 +440,9 @@ section {
   padding: 3em;
   backdrop-filter: blur(5px);
   transition: all 2s ease-out;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
 }
 
 .card>a, .card-univers div {
