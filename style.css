@@ -720,9 +720,10 @@ div .museum_img {
   color: var(--color-light);
 }
 
-video {
+iframe {
   width: 100%;
   height: auto;
+ aspect-ratio: 16 / 9;
 }
 
 .real_img {
